@@ -3,9 +3,7 @@
 		<![CDATA[[^|]*]]>
 	</pattern>
 </patternDefinitions>
-<eventFormatRecognizer>
-	<![CDATA[CEF\s*:\d+\|Virsec Security Platform\|(.*\|){5}\s*]]>
-</eventFormatRecognizer>
+<eventFormatRecognizer><![CDATA[CEF\s*:\d+\|Virsec Security Platform\|(.*\|){5}\s*]]></eventFormatRecognizer>
 <parsingInstructions>
 	<switch>
 		<case>
