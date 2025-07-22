@@ -1,2 +1,2 @@
-# Virsec Security Platform syslog parser for FortiSIEM
-FortiSIEM event log parser for Virsec Security Platform syslog event data
+# Virsec Security Platform CEF parser for FortiSIEM
+FortiSIEM event log parser for Virsec Security Platform CEF event data
